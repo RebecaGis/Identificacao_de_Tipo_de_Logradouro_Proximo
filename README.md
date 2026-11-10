@@ -1,4 +1,12 @@
 # Script Genérico ArcGIS Pro Notebook – Identificação de Tipo de Logradouro Próximo
+
+<!-- project-badges:start -->
+![Ambiente: ArcGIS Pro](https://img.shields.io/static/v1?label=Ambiente&message=ArcGIS%20Pro&color=007AC2&style=flat)
+![Automação: Python · ArcPy](https://img.shields.io/static/v1?label=Automa%C3%A7%C3%A3o&message=Python%20%C2%B7%20ArcPy&color=3776AB&style=flat)
+[![Autoria: Rebeca Diniz Moura](https://img.shields.io/static/v1?label=Autoria&message=Rebeca%20Diniz%20Moura&color=8b5cf6&style=flat)](https://github.com/RebecaGis)
+[![Licença: Apache-2.0](https://img.shields.io/static/v1?label=Licen%C3%A7a&message=Apache-2.0&color=blue&style=flat)](https://github.com/RebecaGis/Identificacao_de_Tipo_de_Logradouro_Proximo/blob/docs/badges-2026-11-10/LICENSE)
+<!-- project-badges:end -->
+
 ✅ Objetivo Automatizar a associação de pontos amostrados (ex: indivíduos) ao tipo de logradouro mais próximo (rua, avenida, etc.) usando shapefiles e ferramentas do ArcPy no ArcGIS Pro Notebook, com código genérico para uso por qualquer usuário.
 
 🧾 Título: Script Genérico ArcGIS Pro Notebook – Identificação de Tipo de Logradouro Próximo
